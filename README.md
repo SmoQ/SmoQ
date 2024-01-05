@@ -1,16 +1,13 @@
-### Hi there 👋
+# 💬 About Me ![](https://komarev.com/ghpvc/?username=SmoQ&color=green)
 
-<!--
-**SmoQ/SmoQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Author](https://img.shields.io/badge/Author-SmoQ-brightgreen)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@SmoQ)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/SmoQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/mariusz-sobczak-976ab358/)
 
-Here are some ideas to get you started:
+Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Mariusz and I am a software engineer with experience in building projects from scratch to production. I specialize in Python but am enthusiastic about DevOps work, especially AWS. I love designing features, writing code, unit tests, and discussions about solutions.
+
+# 🔥 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=smoq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
